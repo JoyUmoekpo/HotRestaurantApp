@@ -1,0 +1,20 @@
+{
+  "name": "HotRestaurantApp",
+  "version": "1.0.0",
+  "description": "This is an exercise app to practice express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joeseff6/HotRestaurantApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joeseff6/HotRestaurantApp/issues"
+  },
+  "homepage": "https://github.com/Joeseff6/HotRestaurantApp#readme"
+}
